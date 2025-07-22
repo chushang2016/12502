@@ -1,4 +1,4 @@
-#   12502_基于springboot+vue的大学教师考核管理系统
+<img width="1280" height="1811" alt="1" src="https://github.com/user-attachments/assets/2e328054-ba87-468c-9ce0-91e167de1978" />#   12502_基于springboot+vue的大学教师考核管理系统
 
 #   项目资料包含：
 *    前后端源代码+SQL脚本
@@ -10,7 +10,7 @@
 #   项目资料获取方式
 *   需要资料或者有任何问题的加QQ：2684634017
 
-*   项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=12502
+*   项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=12502
 
 
 
